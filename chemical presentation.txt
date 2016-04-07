@@ -1,0 +1,12 @@
+
+
+This is the tipicaly scheme of the NOx adsorption over a support Pt-Ba catalysts.
+According to the proposed scheme, in the presence of NO/O2 mixtures (the actual gases in the exhausts), NOx are stored on Ba neighboring Pt sites in the form of nitrite ad-species (route a).
+Nitrite ad-species are then progressively oxidized to nitrates, which prevail at saturation (route b).
+The routes (a)+(b) is called “nitrite route” and occur on the binary Pt–Ba/?-Al2O3.
+Hence the presence of neighboring Pt and Ba sites is important for this route. Accordingly, Pt plays a role in both the formation of nitrites and their subsequent oxidation to nitrates.
+
+In parallel with the “nitrite route,” oxidation of NO to NO2 on Pt sites by gaseous oxygen can also occur (route c); the NO2 thus formed is stored on BaO directly in the form of nitrates, without the intermediacy of nitrites, in according with a particular reaction called to a disproportionation reaction (route (d)).
+Moreover, direct NO2 uptake in the form of nitrate cannot be excluded, although it is of minor importance.
+
+The “nitrite” and “nitrate” pathways operate simultaneously during NO/O2 storage but the first, which is responsible for the formation of nitrites, dominates over the disproportionation route since nitrites are the most abundant species on the surface.
